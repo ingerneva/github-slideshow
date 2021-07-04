@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A bird can fly but a fly cannot bird\n
 Use the left arrow to go back!
